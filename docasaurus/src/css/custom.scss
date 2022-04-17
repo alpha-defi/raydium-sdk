@@ -1,0 +1,119 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --raydium-blue: #2b6aff;
+  --raydium-purple: #8c46ff;
+  --raydium-purple-dark: #7c3de7;
+  --raydium-blue-dark: #131a35;
+  --raydium-blue-darker: #131a35;
+  --raydium-cyan: #39d0d8;
+  --gradient1: #eee;
+  --gradient2: #fff;
+  --background: white;
+  --background-footer: #bec3c9;
+  --nav-background-color: rgba(255, 255, 255, 0.2);
+
+  // Chakra UI colors
+  --gray-700: #2D3748;
+  --gray-800: #1A202C;
+  --gray-900: #171923;
+  --blue-900: #1A365D;
+  --purple-900: #322659;
+
+  --ifm-color-primary: var(--raydium-purple-dark);
+  --ifm-color-primary-dark: #0e0f0f;
+  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary-darkest: #205d3b;
+  --ifm-color-primary-light: #33925d;
+  --ifm-color-primary-lighter: #359962;
+  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-code-font-size: 95%;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme="dark"] {
+  --background: var(--gray-800);
+  --background-footer: #1c1e21;
+  --gradient1: #5347d3;
+  --gradient2: #582ba7;
+  --nav-background-color: rgba(0, 0, 0, 0.7);
+
+
+  --ifm-color-primary: var(--raydium-purple);
+  --ifm-color-primary-dark: #0e0f0f;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+
+  --ifm-toc-border-color: var(--ifm-color-gray-800);
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+[data-theme="dark"] .docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+html[data-theme='dark'] .footer {
+  background-color: var(--ifm-navbar-background-color);
+}
+
+@import "./typesense.scss";
+@import './variables';
+@import './raydium/colors.scss';
+
+// Apply 100% height so children can use entire height
+#__docusaurus {
+  height: 100%
+}
+
+// Hide container doc search for smaller widths (navbar has doc search)
+.container .DocSearch {
+  display: none;
+}
+
+// Render container level (i.e. not nav bar) DocSearch for desktop
+@media screen and (min-width: $bp-mobile) {
+  .container .DocSearch {
+    display: flex;
+  }
+}
+
+
+@media screen and (min-width: $bp-mobile) {
+
+  // Add frosted glass effect to navbar
+  // frosted glass https://www.expressflow.com/blog/posts/css-translucent-frosted-glass-dynamic
+  // breaks mobile for some reason...?
+  .navbar--fixed-top {
+    background-color: var(--nav-background-color);
+    backdrop-filter: blur(20px) saturate(160%) contrast(45%) brightness(140%);
+  }
+}
+
+// Set sidebar to be 100% height
+.main-wrapper > div {
+  height: 100%;
+}
+.theme-doc-sidebar-container {
+  nav {
+    height: 100%;
+  }
+}
+
+html {
+  background-color: var(--background);
+}

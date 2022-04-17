@@ -60,9 +60,6 @@ $ npm install @raydium-io/raydium-sdk --save
 
 **_Full layout type inference_**
 
-![](snapshots/marshmallow/1.png)
-![](snapshots/marshmallow/2.png)
-
 ## Development
 
 ```
