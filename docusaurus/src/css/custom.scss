@@ -12,17 +12,17 @@
   --raydium-blue-dark: #131a35;
   --raydium-blue-darker: #131a35;
   --raydium-cyan: #39d0d8;
-  --gradient1: #eee;
-  --gradient2: #fff;
+  --gradient1: #ddd;
+  --gradient2: #eee;
   --background: white;
   --background-footer: #bec3c9;
   --nav-background-color: rgba(255, 255, 255, 0.2);
 
   // Chakra UI colors
-  --gray-700: #2D3748;
-  --gray-800: #1A202C;
+  --gray-700: #2d3748;
+  --gray-800: #1a202c;
   --gray-900: #171923;
-  --blue-900: #1A365D;
+  --blue-900: #1a365d;
   --purple-900: #322659;
 
   --ifm-color-primary: var(--raydium-purple-dark);
@@ -42,7 +42,6 @@
   --gradient1: #5347d3;
   --gradient2: #582ba7;
   --nav-background-color: rgba(0, 0, 0, 0.7);
-
 
   --ifm-color-primary: var(--raydium-purple);
   --ifm-color-primary-dark: #0e0f0f;
@@ -67,17 +66,17 @@
   background-color: rgba(0, 0, 0, 0.3);
 }
 
-html[data-theme='dark'] .footer {
+html[data-theme="dark"] .footer {
   background-color: var(--ifm-navbar-background-color);
 }
 
 @import "./typesense.scss";
-@import './variables';
-@import './raydium/colors.scss';
+@import "./variables";
+@import "./raydium/colors.scss";
 
 // Apply 100% height so children can use entire height
 #__docusaurus {
-  height: 100%
+  height: 100%;
 }
 
 // Hide container doc search for smaller widths (navbar has doc search)
@@ -92,9 +91,7 @@ html[data-theme='dark'] .footer {
   }
 }
 
-
 @media screen and (min-width: $bp-mobile) {
-
   // Add frosted glass effect to navbar
   // frosted glass https://www.expressflow.com/blog/posts/css-translucent-frosted-glass-dynamic
   // breaks mobile for some reason...?
@@ -116,4 +113,9 @@ html[data-theme='dark'] .footer {
 
 html {
   background-color: var(--background);
+}
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
