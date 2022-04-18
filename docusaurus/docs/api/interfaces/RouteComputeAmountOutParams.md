@@ -14,7 +14,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/route/route.ts:79](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/route/route.ts#L79)
+[src/route/route.ts:79](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/route/route.ts#L79)
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 #### Defined in
 
-[src/route/route.ts:80](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/route/route.ts#L80)
+[src/route/route.ts:80](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/route/route.ts#L80)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/route/route.ts:77](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/route/route.ts#L77)
+[src/route/route.ts:77](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/route/route.ts#L77)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/route/route.ts:75](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/route/route.ts#L75)
+[src/route/route.ts:75](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/route/route.ts#L75)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/route/route.ts:81](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/route/route.ts#L81)
+[src/route/route.ts:81](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/route/route.ts#L81)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/route/route.ts:78](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/route/route.ts#L78)
+[src/route/route.ts:78](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/route/route.ts#L78)
 
 ___
 
@@ -74,4 +74,4 @@ ___
 
 #### Defined in
 
-[src/route/route.ts:76](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/route/route.ts#L76)
+[src/route/route.ts:76](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/route/route.ts#L76)

@@ -14,7 +14,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/base/base.ts:34](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/base/base.ts#L34)
+[src/base/base.ts:34](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/base/base.ts#L34)
 
 ___
 
@@ -24,4 +24,4 @@ ___
 
 #### Defined in
 
-[src/base/base.ts:33](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/base/base.ts#L33)
+[src/base/base.ts:33](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/base/base.ts#L33)

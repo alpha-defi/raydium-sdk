@@ -31,7 +31,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/entity/fraction.ts:34](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/entity/fraction.ts#L34)
+[src/entity/fraction.ts:34](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/fraction.ts#L34)
 
 ## Properties
 
@@ -45,7 +45,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/entity/fraction.ts:32](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/entity/fraction.ts#L32)
+[src/entity/fraction.ts:32](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/fraction.ts#L32)
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 #### Defined in
 
-[src/entity/fraction.ts:31](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/entity/fraction.ts#L31)
+[src/entity/fraction.ts:31](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/fraction.ts#L31)
 
 ## Accessors
 
@@ -77,7 +77,7 @@ Fraction.quotient
 
 #### Defined in
 
-[src/entity/fraction.ts:40](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/entity/fraction.ts#L40)
+[src/entity/fraction.ts:40](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/fraction.ts#L40)
 
 ## Methods
 
@@ -101,7 +101,7 @@ Fraction.quotient
 
 #### Defined in
 
-[src/entity/fraction.ts:49](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/entity/fraction.ts#L49)
+[src/entity/fraction.ts:49](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/fraction.ts#L49)
 
 ___
 
@@ -125,7 +125,7 @@ ___
 
 #### Defined in
 
-[src/entity/fraction.ts:84](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/entity/fraction.ts#L84)
+[src/entity/fraction.ts:84](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/fraction.ts#L84)
 
 ___
 
@@ -143,7 +143,7 @@ ___
 
 #### Defined in
 
-[src/entity/fraction.ts:44](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/entity/fraction.ts#L44)
+[src/entity/fraction.ts:44](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/fraction.ts#L44)
 
 ___
 
@@ -167,7 +167,7 @@ ___
 
 #### Defined in
 
-[src/entity/fraction.ts:77](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/entity/fraction.ts#L77)
+[src/entity/fraction.ts:77](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/fraction.ts#L77)
 
 ___
 
@@ -191,7 +191,7 @@ ___
 
 #### Defined in
 
-[src/entity/fraction.ts:63](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/entity/fraction.ts#L63)
+[src/entity/fraction.ts:63](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/fraction.ts#L63)
 
 ___
 
@@ -217,7 +217,7 @@ ___
 
 #### Defined in
 
-[src/entity/percent.ts:11](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/entity/percent.ts#L11)
+[src/entity/percent.ts:11](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/percent.ts#L11)
 
 ___
 
@@ -243,4 +243,4 @@ ___
 
 #### Defined in
 
-[src/entity/percent.ts:7](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/entity/percent.ts#L7)
+[src/entity/percent.ts:7](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/percent.ts#L7)

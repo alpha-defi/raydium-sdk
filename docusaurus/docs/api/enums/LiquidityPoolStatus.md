@@ -14,7 +14,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:82](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/liquidity/liquidity.ts#L82)
+[src/liquidity/liquidity.ts:82](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L82)
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:81](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/liquidity/liquidity.ts#L81)
+[src/liquidity/liquidity.ts:81](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L81)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:84](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/liquidity/liquidity.ts#L84)
+[src/liquidity/liquidity.ts:84](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L84)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:85](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/liquidity/liquidity.ts#L85)
+[src/liquidity/liquidity.ts:85](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L85)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:83](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/liquidity/liquidity.ts#L83)
+[src/liquidity/liquidity.ts:83](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L83)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:86](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/liquidity/liquidity.ts#L86)
+[src/liquidity/liquidity.ts:86](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L86)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:80](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/liquidity/liquidity.ts#L80)
+[src/liquidity/liquidity.ts:80](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L80)
 
 ___
 
@@ -84,4 +84,4 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:87](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/liquidity/liquidity.ts#L87)
+[src/liquidity/liquidity.ts:87](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L87)

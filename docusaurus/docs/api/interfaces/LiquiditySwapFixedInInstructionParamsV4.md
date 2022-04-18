@@ -14,7 +14,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:195](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/liquidity/liquidity.ts#L195)
+[src/liquidity/liquidity.ts:195](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L195)
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:197](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/liquidity/liquidity.ts#L197)
+[src/liquidity/liquidity.ts:197](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L197)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:189](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/liquidity/liquidity.ts#L189)
+[src/liquidity/liquidity.ts:189](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L189)
 
 ___
 
@@ -52,4 +52,4 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:190](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/liquidity/liquidity.ts#L190)
+[src/liquidity/liquidity.ts:190](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L190)

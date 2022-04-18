@@ -20,7 +20,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:336](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/liquidity/liquidity.ts#L336)
+[src/liquidity/liquidity.ts:336](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L336)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:337](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/liquidity/liquidity.ts#L337)
+[src/liquidity/liquidity.ts:337](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L337)
 
 ___
 
@@ -44,7 +44,7 @@ Omit.poolInfo
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:328](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/liquidity/liquidity.ts#L328)
+[src/liquidity/liquidity.ts:328](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L328)
 
 ___
 
@@ -58,7 +58,7 @@ Omit.poolKeys
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:327](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/liquidity/liquidity.ts#L327)
+[src/liquidity/liquidity.ts:327](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L327)
 
 ___
 
@@ -72,4 +72,4 @@ Omit.slippage
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:331](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/liquidity/liquidity.ts#L331)
+[src/liquidity/liquidity.ts:331](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L331)

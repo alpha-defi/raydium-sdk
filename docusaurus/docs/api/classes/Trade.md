@@ -42,7 +42,7 @@ Get best amount in
 
 #### Defined in
 
-[src/trade/trade.ts:278](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/trade/trade.ts#L278)
+[src/trade/trade.ts:278](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/trade/trade.ts#L278)
 
 ___
 
@@ -76,7 +76,7 @@ Get best amount out
 
 #### Defined in
 
-[src/trade/trade.ts:141](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/trade/trade.ts#L141)
+[src/trade/trade.ts:141](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/trade/trade.ts#L141)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[src/trade/trade.ts:65](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/trade/trade.ts#L65)
+[src/trade/trade.ts:65](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/trade/trade.ts#L65)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[src/trade/trade.ts:77](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/trade/trade.ts#L77)
+[src/trade/trade.ts:77](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/trade/trade.ts#L77)

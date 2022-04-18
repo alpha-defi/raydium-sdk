@@ -14,7 +14,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/liquidity/type.ts:8](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/liquidity/type.ts#L8)
+[src/liquidity/type.ts:8](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/type.ts#L8)
 
 ___
 
@@ -24,4 +24,4 @@ ___
 
 #### Defined in
 
-[src/liquidity/type.ts:9](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/liquidity/type.ts#L9)
+[src/liquidity/type.ts:9](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/type.ts#L9)

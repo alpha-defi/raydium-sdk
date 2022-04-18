@@ -34,7 +34,7 @@ Constructs an instance of the base class `Currency`. The only instance of the ba
 
 #### Defined in
 
-[src/entity/currency.ts:30](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/entity/currency.ts#L30)
+[src/entity/currency.ts:30](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/currency.ts#L30)
 
 ## Properties
 
@@ -44,7 +44,7 @@ Constructs an instance of the base class `Currency`. The only instance of the ba
 
 #### Defined in
 
-[src/entity/currency.ts:17](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/entity/currency.ts#L17)
+[src/entity/currency.ts:17](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/currency.ts#L17)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/entity/currency.ts:15](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/entity/currency.ts#L15)
+[src/entity/currency.ts:15](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/currency.ts#L15)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/entity/currency.ts:14](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/entity/currency.ts#L14)
+[src/entity/currency.ts:14](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/currency.ts#L14)
 
 ___
 
@@ -76,4 +76,4 @@ The only instance of the base class `Currency`.
 
 #### Defined in
 
-[src/entity/currency.ts:22](https://github.com/raydium-io/raydium-sdk/blob/3d95730/src/entity/currency.ts#L22)
+[src/entity/currency.ts:22](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/currency.ts#L22)
