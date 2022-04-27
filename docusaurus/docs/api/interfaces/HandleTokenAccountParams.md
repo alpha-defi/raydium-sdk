@@ -14,7 +14,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/base/base.ts:21](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/base/base.ts#L21)
+[src/base/base.ts:21](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/base/base.ts#L21)
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 #### Defined in
 
-[src/base/base.ts:29](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/base/base.ts#L29)
+[src/base/base.ts:29](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/base/base.ts#L29)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/base/base.ts:19](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/base/base.ts#L19)
+[src/base/base.ts:19](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/base/base.ts#L19)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/base/base.ts:27](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/base/base.ts#L27)
+[src/base/base.ts:27](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/base/base.ts#L27)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/base/base.ts:26](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/base/base.ts#L26)
+[src/base/base.ts:26](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/base/base.ts#L26)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/base/base.ts:22](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/base/base.ts#L22)
+[src/base/base.ts:22](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/base/base.ts#L22)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/base/base.ts:24](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/base/base.ts#L24)
+[src/base/base.ts:24](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/base/base.ts#L24)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[src/base/base.ts:25](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/base/base.ts#L25)
+[src/base/base.ts:25](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/base/base.ts#L25)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[src/base/base.ts:20](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/base/base.ts#L20)
+[src/base/base.ts:20](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/base/base.ts#L20)
 
 ___
 
@@ -104,7 +104,7 @@ ___
 
 #### Defined in
 
-[src/base/base.ts:28](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/base/base.ts#L28)
+[src/base/base.ts:28](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/base/base.ts#L28)
 
 ___
 
@@ -114,4 +114,4 @@ ___
 
 #### Defined in
 
-[src/base/base.ts:23](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/base/base.ts#L23)
+[src/base/base.ts:23](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/base/base.ts#L23)

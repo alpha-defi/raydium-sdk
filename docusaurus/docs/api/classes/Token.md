@@ -37,7 +37,7 @@ Constructs an instance of the base class `Currency`. The only instance of the ba
 
 #### Defined in
 
-[src/entity/currency.ts:69](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/currency.ts#L69)
+[src/entity/currency.ts:69](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/currency.ts#L69)
 
 ## Properties
 
@@ -51,7 +51,7 @@ Constructs an instance of the base class `Currency`. The only instance of the ba
 
 #### Defined in
 
-[src/entity/currency.ts:17](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/currency.ts#L17)
+[src/entity/currency.ts:17](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/currency.ts#L17)
 
 ___
 
@@ -61,7 +61,7 @@ ___
 
 #### Defined in
 
-[src/entity/currency.ts:62](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/currency.ts#L62)
+[src/entity/currency.ts:62](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/currency.ts#L62)
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 #### Defined in
 
-[src/entity/currency.ts:15](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/currency.ts#L15)
+[src/entity/currency.ts:15](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/currency.ts#L15)
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 #### Defined in
 
-[src/entity/currency.ts:14](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/currency.ts#L14)
+[src/entity/currency.ts:14](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/currency.ts#L14)
 
 ___
 
@@ -105,7 +105,7 @@ The only instance of the base class `Currency`.
 
 #### Defined in
 
-[src/entity/currency.ts:22](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/currency.ts#L22)
+[src/entity/currency.ts:22](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/currency.ts#L22)
 
 ___
 
@@ -117,7 +117,7 @@ The only instance of the base class `Token`.
 
 #### Defined in
 
-[src/entity/currency.ts:67](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/currency.ts#L67)
+[src/entity/currency.ts:67](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/currency.ts#L67)
 
 ## Methods
 
@@ -139,4 +139,4 @@ Returns true if the two tokens are equivalent, i.e. have the same mint address.
 
 #### Defined in
 
-[src/entity/currency.ts:79](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/currency.ts#L79)
+[src/entity/currency.ts:79](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/currency.ts#L79)

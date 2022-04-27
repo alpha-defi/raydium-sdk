@@ -33,7 +33,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/entity/price.ts:17](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/price.ts#L17)
+[src/entity/price.ts:17](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/price.ts#L17)
 
 ## Properties
 
@@ -43,7 +43,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/entity/price.ts:11](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/price.ts#L11)
+[src/entity/price.ts:11](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/price.ts#L11)
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 #### Defined in
 
-[src/entity/fraction.ts:32](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/fraction.ts#L32)
+[src/entity/fraction.ts:32](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/fraction.ts#L32)
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 #### Defined in
 
-[src/entity/fraction.ts:31](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/fraction.ts#L31)
+[src/entity/fraction.ts:31](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/fraction.ts#L31)
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 #### Defined in
 
-[src/entity/price.ts:12](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/price.ts#L12)
+[src/entity/price.ts:12](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/price.ts#L12)
 
 ___
 
@@ -91,7 +91,7 @@ ___
 
 #### Defined in
 
-[src/entity/price.ts:14](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/price.ts#L14)
+[src/entity/price.ts:14](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/price.ts#L14)
 
 ## Accessors
 
@@ -105,7 +105,7 @@ ___
 
 #### Defined in
 
-[src/entity/price.ts:34](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/price.ts#L34)
+[src/entity/price.ts:34](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/price.ts#L34)
 
 ___
 
@@ -123,7 +123,7 @@ Fraction.quotient
 
 #### Defined in
 
-[src/entity/fraction.ts:40](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/fraction.ts#L40)
+[src/entity/fraction.ts:40](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/fraction.ts#L40)
 
 ___
 
@@ -137,7 +137,7 @@ ___
 
 #### Defined in
 
-[src/entity/price.ts:30](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/price.ts#L30)
+[src/entity/price.ts:30](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/price.ts#L30)
 
 ## Methods
 
@@ -161,7 +161,7 @@ ___
 
 #### Defined in
 
-[src/entity/fraction.ts:49](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/fraction.ts#L49)
+[src/entity/fraction.ts:49](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/fraction.ts#L49)
 
 ___
 
@@ -185,7 +185,7 @@ ___
 
 #### Defined in
 
-[src/entity/fraction.ts:84](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/fraction.ts#L84)
+[src/entity/fraction.ts:84](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/fraction.ts#L84)
 
 ___
 
@@ -203,7 +203,7 @@ ___
 
 #### Defined in
 
-[src/entity/price.ts:38](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/price.ts#L38)
+[src/entity/price.ts:38](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/price.ts#L38)
 
 ___
 
@@ -227,7 +227,7 @@ ___
 
 #### Defined in
 
-[src/entity/price.ts:42](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/price.ts#L42)
+[src/entity/price.ts:42](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/price.ts#L42)
 
 ___
 
@@ -251,7 +251,7 @@ ___
 
 #### Defined in
 
-[src/entity/fraction.ts:63](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/fraction.ts#L63)
+[src/entity/fraction.ts:63](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/fraction.ts#L63)
 
 ___
 
@@ -277,7 +277,7 @@ ___
 
 #### Defined in
 
-[src/entity/price.ts:53](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/price.ts#L53)
+[src/entity/price.ts:53](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/price.ts#L53)
 
 ___
 
@@ -303,4 +303,4 @@ ___
 
 #### Defined in
 
-[src/entity/price.ts:49](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/entity/price.ts#L49)
+[src/entity/price.ts:49](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/entity/price.ts#L49)

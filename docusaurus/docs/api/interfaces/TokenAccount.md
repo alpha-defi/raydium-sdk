@@ -30,7 +30,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/base/base.ts:8](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/base/base.ts#L8)
+[src/base/base.ts:8](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/base/base.ts#L8)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[src/base/base.ts:7](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/base/base.ts#L7)
+[src/base/base.ts:7](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/base/base.ts#L7)

@@ -24,7 +24,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/token/type.ts:9](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/token/type.ts#L9)
+[src/token/type.ts:9](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/token/type.ts#L9)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/token/type.ts:21](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/token/type.ts#L21)
+[src/token/type.ts:21](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/token/type.ts#L21)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/token/type.ts:19](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/token/type.ts#L19)
+[src/token/type.ts:19](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/token/type.ts#L19)
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 #### Defined in
 
-[src/token/type.ts:7](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/token/type.ts#L7)
+[src/token/type.ts:7](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/token/type.ts#L7)
 
 ___
 
@@ -72,4 +72,4 @@ ___
 
 #### Defined in
 
-[src/token/type.ts:6](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/token/type.ts#L6)
+[src/token/type.ts:6](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/token/type.ts#L6)

@@ -16,7 +16,7 @@ Init pool transaction params
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:288](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L288)
+[src/liquidity/liquidity.ts:288](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/liquidity/liquidity.ts#L288)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:291](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L291)
+[src/liquidity/liquidity.ts:291](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/liquidity/liquidity.ts#L291)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:281](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L281)
+[src/liquidity/liquidity.ts:281](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/liquidity/liquidity.ts#L281)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:282](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L282)
+[src/liquidity/liquidity.ts:282](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/liquidity/liquidity.ts#L282)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:289](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L289)
+[src/liquidity/liquidity.ts:289](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/liquidity/liquidity.ts#L289)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:290](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L290)
+[src/liquidity/liquidity.ts:290](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/liquidity/liquidity.ts#L290)
 
 ___
 
@@ -90,4 +90,4 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:283](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/liquidity/liquidity.ts#L283)
+[src/liquidity/liquidity.ts:283](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/liquidity/liquidity.ts#L283)

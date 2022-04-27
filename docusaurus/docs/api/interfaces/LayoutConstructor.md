@@ -21,7 +21,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/marshmallow/buffer-layout.ts:21](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/marshmallow/buffer-layout.ts#L21)
+[src/marshmallow/buffer-layout.ts:21](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/marshmallow/buffer-layout.ts#L21)
 
 • **new LayoutConstructor**<`T`, `P`\>(`span?`, `property?`)
 
@@ -41,7 +41,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/marshmallow/buffer-layout.ts:22](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/marshmallow/buffer-layout.ts#L22)
+[src/marshmallow/buffer-layout.ts:22](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/marshmallow/buffer-layout.ts#L22)
 
 ## Properties
 
@@ -51,4 +51,4 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/marshmallow/buffer-layout.ts:23](https://github.com/alpha-defi/raydium-sdk/blob/5597113/src/marshmallow/buffer-layout.ts#L23)
+[src/marshmallow/buffer-layout.ts:23](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/marshmallow/buffer-layout.ts#L23)
