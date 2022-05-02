@@ -30,10 +30,10 @@ const sidebars = {
   docs: [
     'overview',
     {
-      Tutorial: ['tutorial', 'tutorial/requirements', 'tutorial/beginner', 'tutorial/intermediate', 'tutorial/advanced']
+      Guides: ['guides', 'guides/swaps']
     },
+    'overview/resources',
     'showcase',
-    'overview/resources'
   ],
   API: [
     {

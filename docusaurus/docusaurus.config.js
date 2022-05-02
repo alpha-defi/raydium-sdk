@@ -64,6 +64,7 @@ const config = {
     ({
       navbar: {
         title: 'Raydium SDK',
+        hideOnScroll: false,
         logo: {
           alt: 'Raydium SDK Logo',
           src: 'img/logo.svg',
@@ -75,9 +76,9 @@ const config = {
             label: 'Overview',
           },
           {
-            to: 'tutorial',
+            to: 'guides',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Guides',
           },
           {
             to: 'showcase',
@@ -107,8 +108,8 @@ const config = {
                 to: 'overview',
               },
               {
-                label: 'Tutorial',
-                to: 'tutorial',
+                label: 'Guides',
+                to: 'guides',
               },
               {
                 label: 'Showcase',
@@ -158,7 +159,7 @@ const config = {
       // Use self hosted typesense until Algoria approves raydium SDK
       typesense: {
         typesenseCollectionName: 'raydium-sdk', // Replace with your own doc site's name. Should match the collection name in the scraper settings.
-        
+
         typesenseServerConfig: {
           nodes: [
             {
@@ -169,10 +170,10 @@ const config = {
           ],
           apiKey: '3BldYLqcSaDGvj1',
         },
-  
+
         // Optional: Typesense search parameters: https://typesense.org/docs/0.21.0/api/documents.md#search-parameters
         typesenseSearchParameters: {},
-  
+
         // Optional
         contextualSearch: true,
       },

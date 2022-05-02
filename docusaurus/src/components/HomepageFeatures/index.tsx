@@ -26,7 +26,7 @@ const FeatureList: FeatureItem[] = [
         Learn how to use the SDK to build applications on top of Raydium.
       </>
     ),
-    link: 'tutorial'
+    link: 'guides'
   },
   {
     title: 'Showcase',
@@ -39,7 +39,7 @@ const FeatureList: FeatureItem[] = [
   },
 ];
 
-function Feature({title, description, link}: FeatureItem) {
+function Feature({ title, description, link }: FeatureItem) {
   return (
     <Link className={clsx(styles.frostedButton)} to={link}>
       <div className="padding-horiz--md">
