@@ -16,7 +16,7 @@ Swap transaction params
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:238](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/liquidity/liquidity.ts#L238)
+[src/liquidity/liquidity.ts:238](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/liquidity/liquidity.ts#L238)
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:239](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/liquidity/liquidity.ts#L239)
+[src/liquidity/liquidity.ts:239](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/liquidity/liquidity.ts#L239)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:241](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/liquidity/liquidity.ts#L241)
+[src/liquidity/liquidity.ts:241](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/liquidity/liquidity.ts#L241)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:231](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/liquidity/liquidity.ts#L231)
+[src/liquidity/liquidity.ts:231](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/liquidity/liquidity.ts#L231)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:240](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/liquidity/liquidity.ts#L240)
+[src/liquidity/liquidity.ts:240](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/liquidity/liquidity.ts#L240)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:232](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/liquidity/liquidity.ts#L232)
+[src/liquidity/liquidity.ts:232](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/liquidity/liquidity.ts#L232)
 
 ___
 
@@ -90,4 +90,4 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:233](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/liquidity/liquidity.ts#L233)
+[src/liquidity/liquidity.ts:233](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/liquidity/liquidity.ts#L233)

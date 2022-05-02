@@ -20,7 +20,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/trade/trade.ts:60](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/trade/trade.ts#L60)
+[src/trade/trade.ts:60](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/trade/trade.ts#L60)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/trade/trade.ts:61](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/trade/trade.ts#L61)
+[src/trade/trade.ts:61](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/trade/trade.ts#L61)
 
 ___
 
@@ -44,7 +44,7 @@ Omit.features
 
 #### Defined in
 
-[src/trade/trade.ts:56](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/trade/trade.ts#L56)
+[src/trade/trade.ts:56](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/trade/trade.ts#L56)
 
 ___
 
@@ -58,7 +58,7 @@ Omit.markets
 
 #### Defined in
 
-[src/trade/trade.ts:51](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/trade/trade.ts#L51)
+[src/trade/trade.ts:51](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/trade/trade.ts#L51)
 
 ___
 
@@ -72,7 +72,7 @@ Omit.midTokens
 
 #### Defined in
 
-[src/trade/trade.ts:55](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/trade/trade.ts#L55)
+[src/trade/trade.ts:55](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/trade/trade.ts#L55)
 
 ___
 
@@ -86,7 +86,7 @@ Omit.pools
 
 #### Defined in
 
-[src/trade/trade.ts:50](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/trade/trade.ts#L50)
+[src/trade/trade.ts:50](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/trade/trade.ts#L50)
 
 ___
 
@@ -100,4 +100,4 @@ Omit.slippage
 
 #### Defined in
 
-[src/trade/trade.ts:54](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/trade/trade.ts#L54)
+[src/trade/trade.ts:54](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/trade/trade.ts#L54)

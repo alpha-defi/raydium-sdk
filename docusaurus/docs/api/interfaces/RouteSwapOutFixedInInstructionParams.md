@@ -14,7 +14,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/route/route.ts:52](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/route/route.ts#L52)
+[src/route/route.ts:52](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/route/route.ts#L52)
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 #### Defined in
 
-[src/route/route.ts:53](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/route/route.ts#L53)
+[src/route/route.ts:53](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/route/route.ts#L53)
 
 ___
 
@@ -34,4 +34,4 @@ ___
 
 #### Defined in
 
-[src/route/route.ts:54](https://github.com/alpha-defi/raydium-sdk/blob/7094668/src/route/route.ts#L54)
+[src/route/route.ts:54](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/route/route.ts#L54)
