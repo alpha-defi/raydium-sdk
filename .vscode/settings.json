@@ -71,5 +71,11 @@
     "maxNamesPerWrappedLine": 0,
     "maxBindingNamesPerLine": 0,
     "maxDefaultAndBindingNamesPerLine": 0
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
   }
 }
