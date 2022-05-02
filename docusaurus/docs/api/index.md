@@ -7,12 +7,11 @@ sidebar_position: 0
 custom_edit_url: null
 ---
 
+:::caution
+This API section is entirely auto-generated from source code.
+:::
+
 # Raydium SDK
-
-[npm-image]: https://img.shields.io/npm/v/@raydium-io/raydium-sdk.svg?style=flat
-[npm-url]: https://www.npmjs.com/package/@raydium-io/raydium-sdk
-
-[![npm][npm-image]][npm-url]
 
 An SDK for building applications on top of Raydium.
 
