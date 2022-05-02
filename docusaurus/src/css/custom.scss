@@ -9,6 +9,7 @@
   --raydium-blue: #2b6aff;
   --raydium-purple: #8c46ff;
   --raydium-purple-dark: #7c3de7;
+  --raydium-purple-light: #af7dff;
   --raydium-blue-dark: #131a35;
   --raydium-blue-darker: #131a35;
   --raydium-cyan: #39d0d8;
@@ -43,7 +44,7 @@
   --gradient2: #582ba7;
   --nav-background-color: rgba(0, 0, 0, 0.7);
 
-  --ifm-color-primary: var(--raydium-purple);
+  --ifm-color-primary: var(--raydium-purple-light);
   --ifm-color-primary-dark: #0e0f0f;
   --ifm-color-primary-dark: #21af90;
   --ifm-color-primary-darker: #1fa588;
@@ -113,6 +114,10 @@ html[data-theme="dark"] .footer {
 
 html {
   background-color: var(--background);
+}
+
+hr {
+  border-color: var(--ifm-toc-border-color);
 }
 
 // body {

@@ -30,8 +30,11 @@
     cursor: pointer;
     text-decoration: none;
     color: var(--ifm-font-color-base);
-    transform: scale(1.05);
+    // transform: scale(1.05);
+    transform: translateY(-5px);
   }
+
+  box-shadow: 0 8px 28px 4px rgb(86 91 115 / 15%);
 
   backdrop-filter: blur(100px);
   border-radius: 20px;
