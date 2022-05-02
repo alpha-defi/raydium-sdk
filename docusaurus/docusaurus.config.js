@@ -26,7 +26,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: "/",
           // Please change this to your repo. 
-          editUrl: 'https://github.com/alpha-defi/raydium-sdk2/blob/main/',
+          editUrl: 'https://github.com/alpha-defi/raydium-sdk/blob/main/',
         },
         blog: false, // Blog is disabled for SDK
         theme: {
@@ -91,7 +91,7 @@ const config = {
             label: 'API',
           },
           {
-            href: 'https://github.com/alpha-defi/raydium-sdk2',
+            href: 'https://github.com/alpha-defi/raydium-sdk',
             label: 'GitHub',
             position: 'right',
           },
@@ -139,7 +139,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/alpha-defi/raydium-sdk2',
+                href: 'https://github.com/alpha-defi/raydium-sdk',
               },
             ],
           },
