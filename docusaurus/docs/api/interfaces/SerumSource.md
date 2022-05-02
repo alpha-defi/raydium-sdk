@@ -14,7 +14,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/trade/trade.ts:29](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/trade/trade.ts#L29)
+[src/trade/trade.ts:29](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/trade/trade.ts#L29)
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 #### Defined in
 
-[src/trade/trade.ts:28](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/trade/trade.ts#L28)
+[src/trade/trade.ts:28](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/trade/trade.ts#L28)
 
 ___
 
@@ -34,4 +34,4 @@ ___
 
 #### Defined in
 
-[src/trade/trade.ts:27](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/trade/trade.ts#L27)
+[src/trade/trade.ts:27](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/trade/trade.ts#L27)

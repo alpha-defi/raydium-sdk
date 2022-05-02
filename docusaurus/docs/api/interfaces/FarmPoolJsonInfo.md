@@ -14,7 +14,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/farm/type.ts:21](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/farm/type.ts#L21)
+[src/farm/type.ts:21](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/farm/type.ts#L21)
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 #### Defined in
 
-[src/farm/type.ts:14](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/farm/type.ts#L14)
+[src/farm/type.ts:14](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/farm/type.ts#L14)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/farm/type.ts:15](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/farm/type.ts#L15)
+[src/farm/type.ts:15](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/farm/type.ts#L15)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/farm/type.ts:22](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/farm/type.ts#L22)
+[src/farm/type.ts:22](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/farm/type.ts#L22)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/farm/type.ts:19](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/farm/type.ts#L19)
+[src/farm/type.ts:19](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/farm/type.ts#L19)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/farm/type.ts:16](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/farm/type.ts#L16)
+[src/farm/type.ts:16](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/farm/type.ts#L16)
 
 ___
 
@@ -74,7 +74,7 @@ ___
 
 #### Defined in
 
-[src/farm/type.ts:23](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/farm/type.ts#L23)
+[src/farm/type.ts:23](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/farm/type.ts#L23)
 
 ___
 
@@ -84,4 +84,4 @@ ___
 
 #### Defined in
 
-[src/farm/type.ts:18](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/farm/type.ts#L18)
+[src/farm/type.ts:18](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/farm/type.ts#L18)

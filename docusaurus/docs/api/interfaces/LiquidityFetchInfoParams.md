@@ -16,7 +16,7 @@ Fetch liquidity pool info params
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:301](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/liquidity/liquidity.ts#L301)
+[src/liquidity/liquidity.ts:301](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L301)
 
 ___
 
@@ -26,4 +26,4 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:302](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/liquidity/liquidity.ts#L302)
+[src/liquidity/liquidity.ts:302](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L302)

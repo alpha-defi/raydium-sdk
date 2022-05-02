@@ -14,7 +14,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/trade/trade.ts:41](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/trade/trade.ts#L41)
+[src/trade/trade.ts:41](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/trade/trade.ts#L41)
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 #### Defined in
 
-[src/trade/trade.ts:42](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/trade/trade.ts#L42)
+[src/trade/trade.ts:42](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/trade/trade.ts#L42)
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 #### Defined in
 
-[src/trade/trade.ts:44](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/trade/trade.ts#L44)
+[src/trade/trade.ts:44](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/trade/trade.ts#L44)
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 #### Defined in
 
-[src/trade/trade.ts:33](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/trade/trade.ts#L33)
+[src/trade/trade.ts:33](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/trade/trade.ts#L33)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[src/trade/trade.ts:43](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/trade/trade.ts#L43)
+[src/trade/trade.ts:43](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/trade/trade.ts#L43)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 #### Defined in
 
-[src/trade/trade.ts:35](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/trade/trade.ts#L35)
+[src/trade/trade.ts:35](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/trade/trade.ts#L35)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[src/trade/trade.ts:34](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/trade/trade.ts#L34)
+[src/trade/trade.ts:34](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/trade/trade.ts#L34)
 
 ___
 
@@ -98,4 +98,4 @@ ___
 
 #### Defined in
 
-[src/trade/trade.ts:36](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/trade/trade.ts#L36)
+[src/trade/trade.ts:36](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/trade/trade.ts#L36)

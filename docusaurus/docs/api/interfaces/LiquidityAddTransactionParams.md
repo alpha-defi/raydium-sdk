@@ -16,7 +16,7 @@ Add liquidity transaction params
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:152](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/liquidity/liquidity.ts#L152)
+[src/liquidity/liquidity.ts:152](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L152)
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:153](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/liquidity/liquidity.ts#L153)
+[src/liquidity/liquidity.ts:153](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L153)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:155](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/liquidity/liquidity.ts#L155)
+[src/liquidity/liquidity.ts:155](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L155)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:145](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/liquidity/liquidity.ts#L145)
+[src/liquidity/liquidity.ts:145](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L145)
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:154](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/liquidity/liquidity.ts#L154)
+[src/liquidity/liquidity.ts:154](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L154)
 
 ___
 
@@ -72,7 +72,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:146](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/liquidity/liquidity.ts#L146)
+[src/liquidity/liquidity.ts:146](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L146)
 
 ___
 
@@ -90,4 +90,4 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:147](https://github.com/alpha-defi/raydium-sdk/blob/ce1010a/src/liquidity/liquidity.ts#L147)
+[src/liquidity/liquidity.ts:147](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L147)
