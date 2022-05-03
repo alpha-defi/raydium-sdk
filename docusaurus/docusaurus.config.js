@@ -26,7 +26,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           routeBasePath: "/",
           // Please change this to your repo. 
-          editUrl: 'https://github.com/alpha-defi/raydium-sdk/blob/main/',
+          editUrl: 'https://github.com/alpha-defi/raydium-sdk/blob/master/docusaurus',
         },
         blog: false, // Blog is disabled for SDK
         theme: {
