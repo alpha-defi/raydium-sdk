@@ -1,5 +1,5 @@
 ---
-title:  Swap Demos
+title:  Swap Demo
 ---
 
 This section shows how to use the Raydium SDK to swap tokens for mainnet and
@@ -10,7 +10,7 @@ Credit goes to Rayxury from [Raydium's developers' discord](https://discord.com/
 
 ## Devnet
 
-This section walks through a brand new devnet wallet installation that is airdropped
+This section steps through a brand new devnet wallet installation that is airdropped
 SOL tokens that the SDK swaps to the Ray token using devnet's RAY-USDC pool.
 
 ### 1. Wallet Install
@@ -20,7 +20,7 @@ with Serum's [Sollet.io wallet](https://www.sollet.io/). As a first step,
 visit https://www.sollet.io to create a new wallet for devnet and follow
 the on-screen instructions.
 
-Once created, the wallet should show up like he following:
+Once created, the wallet should show up like the following:
 
 ![initial_wallet](/img/guides/initial_wallet.png)
 
@@ -89,7 +89,7 @@ git clone https://github.com/raydium-io/sdk_demo/
 yarn
 ```
 
-Modify the array in the secretKey wtih your walet's private key
+Modify the array in the secretKey wtih your wallet's private key
 
 ```tsx
 // Replace '[1,1,1,1,1]' with your key
