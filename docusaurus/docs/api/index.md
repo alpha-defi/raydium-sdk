@@ -7,11 +7,12 @@ sidebar_position: 0
 custom_edit_url: null
 ---
 
-:::caution
-This API section is entirely auto-generated from source code.
-:::
-
 # Raydium SDK
+
+[npm-image]: https://img.shields.io/npm/v/@raydium-io/raydium-sdk.svg?style=flat
+[npm-url]: https://www.npmjs.com/package/@raydium-io/raydium-sdk
+
+[![npm][npm-image]][npm-url]
 
 An SDK for building applications on top of Raydium.
 
@@ -33,8 +34,8 @@ $ npm install @raydium-io/raydium-sdk --save
 
 ### Tokens List
 
-- Solana format: https://sdk.raydium.io/token/solana.mainnet.json
-- Raydium format: https://sdk.raydium.io/token/raydium.mainnet.json
+- Solana format: https://api.raydium.io/v2/sdk/token/solana.mainnet.json
+- Raydium format: https://api.raydium.io/v2/sdk/token/raydium.mainnet.json
 
 ### Token Icons
 
@@ -44,13 +45,13 @@ $ npm install @raydium-io/raydium-sdk --save
 
 **_Includes all pubkeys that build transaction need_**
 
-- https://sdk.raydium.io/liquidity/mainnet.json
+- https://api.raydium.io/v2/sdk/liquidity/mainnet.json
 
 ### Farm/Staking Pools List
 
 **_Includes all pubkeys that build transaction need_**
 
-- https://sdk.raydium.io/farm/mainnet.json
+- https://api.raydium.io/v2/sdk/farm/mainnet.json
 
 ## Program IDs
 

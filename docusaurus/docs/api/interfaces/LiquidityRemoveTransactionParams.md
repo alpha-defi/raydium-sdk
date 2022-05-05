@@ -16,7 +16,7 @@ Remove liquidity transaction params
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:182](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L182)
+[src/liquidity/liquidity.ts:182](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L182)
 
 ___
 
@@ -32,7 +32,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:183](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L183)
+[src/liquidity/liquidity.ts:183](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L183)
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:175](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L175)
+[src/liquidity/liquidity.ts:175](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L175)
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:176](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L176)
+[src/liquidity/liquidity.ts:176](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L176)
 
 ___
 
@@ -70,4 +70,4 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:177](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L177)
+[src/liquidity/liquidity.ts:177](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L177)

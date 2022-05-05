@@ -14,7 +14,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/trade/trade.ts:52](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/trade/trade.ts#L52)
+[src/trade/trade.ts:52](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/trade/trade.ts#L52)
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 #### Defined in
 
-[src/trade/trade.ts:53](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/trade/trade.ts#L53)
+[src/trade/trade.ts:53](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/trade/trade.ts#L53)
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 #### Defined in
 
-[src/trade/trade.ts:56](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/trade/trade.ts#L56)
+[src/trade/trade.ts:56](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/trade/trade.ts#L56)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[src/trade/trade.ts:51](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/trade/trade.ts#L51)
+[src/trade/trade.ts:51](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/trade/trade.ts#L51)
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 #### Defined in
 
-[src/trade/trade.ts:55](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/trade/trade.ts#L55)
+[src/trade/trade.ts:55](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/trade/trade.ts#L55)
 
 ___
 
@@ -64,7 +64,7 @@ ___
 
 #### Defined in
 
-[src/trade/trade.ts:50](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/trade/trade.ts#L50)
+[src/trade/trade.ts:50](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/trade/trade.ts#L50)
 
 ___
 
@@ -74,4 +74,4 @@ ___
 
 #### Defined in
 
-[src/trade/trade.ts:54](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/trade/trade.ts#L54)
+[src/trade/trade.ts:54](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/trade/trade.ts#L54)

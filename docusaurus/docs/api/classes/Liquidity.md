@@ -42,7 +42,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1844](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1844)
+[src/liquidity/liquidity.ts:1844](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1844)
 
 ___
 
@@ -67,7 +67,7 @@ currency amount side is `base` or `quote`
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1748](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1748)
+[src/liquidity/liquidity.ts:1748](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1748)
 
 ___
 
@@ -93,7 +93,7 @@ currencies amount side array
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1761](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1761)
+[src/liquidity/liquidity.ts:1761](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1761)
 
 ___
 
@@ -118,7 +118,7 @@ token side is `base` or `quote`
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1707](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1707)
+[src/liquidity/liquidity.ts:1707](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1707)
 
 ___
 
@@ -144,7 +144,7 @@ tokens side array
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1727](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1727)
+[src/liquidity/liquidity.ts:1727](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1727)
 
 ___
 
@@ -168,7 +168,7 @@ ___
 
 #### Defined in
 
-[src/base/base.ts:71](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/base/base.ts#L71)
+[src/base/base.ts:71](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/base/base.ts#L71)
 
 ___
 
@@ -192,7 +192,7 @@ ___
 
 #### Defined in
 
-[src/base/base.ts:38](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/base/base.ts#L38)
+[src/base/base.ts:38](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/base/base.ts#L38)
 
 ___
 
@@ -216,7 +216,7 @@ amountIn - currency amount without slippage
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:2017](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L2017)
+[src/liquidity/liquidity.ts:2017](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L2017)
 
 ___
 
@@ -240,7 +240,7 @@ amountOut - currency amount without slippage
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1868](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1868)
+[src/liquidity/liquidity.ts:1868](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1868)
 
 ___
 
@@ -272,7 +272,7 @@ anotherCurrencyAmount - currency amount without slippage
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1792](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1792)
+[src/liquidity/liquidity.ts:1792](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1792)
 
 ___
 
@@ -295,7 +295,7 @@ Fetch all pools keys from on-chain data
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1376](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1376)
+[src/liquidity/liquidity.ts:1376](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1376)
 
 ___
 
@@ -317,7 +317,7 @@ Fetch liquidity pool's info
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1565](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1565)
+[src/liquidity/liquidity.ts:1565](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1565)
 
 ___
 
@@ -339,7 +339,7 @@ Fetch multiple info of liquidity pools
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1581](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1581)
+[src/liquidity/liquidity.ts:1581](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1581)
 
 ___
 
@@ -360,7 +360,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:402](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L402)
+[src/liquidity/liquidity.ts:402](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L402)
 
 ___
 
@@ -382,7 +382,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:410](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L410)
+[src/liquidity/liquidity.ts:410](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L410)
 
 ___
 
@@ -404,7 +404,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:394](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L394)
+[src/liquidity/liquidity.ts:394](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L394)
 
 ___
 
@@ -426,7 +426,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:426](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L426)
+[src/liquidity/liquidity.ts:426](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L426)
 
 ___
 
@@ -448,7 +448,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:434](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L434)
+[src/liquidity/liquidity.ts:434](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L434)
 
 ___
 
@@ -470,7 +470,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:458](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L458)
+[src/liquidity/liquidity.ts:458](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L458)
 
 ___
 
@@ -494,7 +494,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:466](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L466)
+[src/liquidity/liquidity.ts:466](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L466)
 
 ___
 
@@ -516,7 +516,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:418](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L418)
+[src/liquidity/liquidity.ts:418](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L418)
 
 ___
 
@@ -538,7 +538,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:442](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L442)
+[src/liquidity/liquidity.ts:442](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L442)
 
 ___
 
@@ -560,7 +560,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:450](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L450)
+[src/liquidity/liquidity.ts:450](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L450)
 
 ___
 
@@ -586,7 +586,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1626](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1626)
+[src/liquidity/liquidity.ts:1626](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1626)
 
 ___
 
@@ -610,7 +610,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:389](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L389)
+[src/liquidity/liquidity.ts:389](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L389)
 
 ___
 
@@ -630,7 +630,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:358](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L358)
+[src/liquidity/liquidity.ts:358](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L358)
 
 ___
 
@@ -650,7 +650,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1851](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1851)
+[src/liquidity/liquidity.ts:1851](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1851)
 
 ___
 
@@ -670,7 +670,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:374](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L374)
+[src/liquidity/liquidity.ts:374](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L374)
 
 ___
 
@@ -690,7 +690,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:382](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L382)
+[src/liquidity/liquidity.ts:382](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L382)
 
 ___
 
@@ -710,7 +710,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:365](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L365)
+[src/liquidity/liquidity.ts:365](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L365)
 
 ___
 
@@ -731,7 +731,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1695](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1695)
+[src/liquidity/liquidity.ts:1695](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1695)
 
 ___
 
@@ -751,7 +751,7 @@ lsl is Object
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1368](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1368)
+[src/liquidity/liquidity.ts:1368](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1368)
 
 ___
 
@@ -771,7 +771,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:524](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L524)
+[src/liquidity/liquidity.ts:524](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L524)
 
 ___
 
@@ -791,7 +791,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:578](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L578)
+[src/liquidity/liquidity.ts:578](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L578)
 
 ___
 
@@ -811,7 +811,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1111](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1111)
+[src/liquidity/liquidity.ts:1111](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1111)
 
 ___
 
@@ -831,7 +831,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1122](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1122)
+[src/liquidity/liquidity.ts:1122](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1122)
 
 ___
 
@@ -856,7 +856,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1161](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1161)
+[src/liquidity/liquidity.ts:1161](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1161)
 
 ___
 
@@ -876,7 +876,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1170](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1170)
+[src/liquidity/liquidity.ts:1170](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1170)
 
 ___
 
@@ -896,7 +896,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1181](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1181)
+[src/liquidity/liquidity.ts:1181](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1181)
 
 ___
 
@@ -916,7 +916,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1225](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1225)
+[src/liquidity/liquidity.ts:1225](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1225)
 
 ___
 
@@ -936,7 +936,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:721](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L721)
+[src/liquidity/liquidity.ts:721](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L721)
 
 ___
 
@@ -956,7 +956,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:784](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L784)
+[src/liquidity/liquidity.ts:784](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L784)
 
 ___
 
@@ -977,7 +977,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1338](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1338)
+[src/liquidity/liquidity.ts:1338](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1338)
 
 ___
 
@@ -998,7 +998,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:908](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L908)
+[src/liquidity/liquidity.ts:908](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L908)
 
 ___
 
@@ -1019,7 +1019,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:965](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L965)
+[src/liquidity/liquidity.ts:965](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L965)
 
 ___
 
@@ -1039,7 +1039,7 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:875](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L875)
+[src/liquidity/liquidity.ts:875](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L875)
 
 ___
 
@@ -1059,4 +1059,4 @@ ___
 
 #### Defined in
 
-[src/liquidity/liquidity.ts:1019](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/liquidity/liquidity.ts#L1019)
+[src/liquidity/liquidity.ts:1019](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/liquidity/liquidity.ts#L1019)

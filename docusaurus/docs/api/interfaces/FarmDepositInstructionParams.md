@@ -14,7 +14,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/farm/farm.ts:44](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/farm/farm.ts#L44)
+[src/farm/farm.ts:44](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/farm/farm.ts#L44)
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 #### Defined in
 
-[src/farm/farm.ts:42](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/farm/farm.ts#L42)
+[src/farm/farm.ts:42](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/farm/farm.ts#L42)
 
 ___
 
@@ -34,4 +34,4 @@ ___
 
 #### Defined in
 
-[src/farm/farm.ts:43](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/farm/farm.ts#L43)
+[src/farm/farm.ts:43](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/farm/farm.ts#L43)

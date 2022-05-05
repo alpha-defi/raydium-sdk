@@ -32,7 +32,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/serum/serum.ts:41](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/serum/serum.ts#L41)
+[src/serum/serum.ts:41](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/serum/serum.ts#L41)
 
 ___
 
@@ -56,7 +56,7 @@ ___
 
 #### Defined in
 
-[src/serum/serum.ts:36](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/serum/serum.ts#L36)
+[src/serum/serum.ts:36](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/serum/serum.ts#L36)
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 #### Defined in
 
-[src/serum/serum.ts:12](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/serum/serum.ts#L12)
+[src/serum/serum.ts:12](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/serum/serum.ts#L12)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[src/serum/serum.ts:29](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/serum/serum.ts#L29)
+[src/serum/serum.ts:29](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/serum/serum.ts#L29)
 
 ___
 
@@ -116,4 +116,4 @@ ___
 
 #### Defined in
 
-[src/serum/serum.ts:19](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/serum/serum.ts#L19)
+[src/serum/serum.ts:19](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/serum/serum.ts#L19)

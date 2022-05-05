@@ -44,7 +44,7 @@ Layout&lt;BN, P\&gt;.constructor
 
 #### Defined in
 
-[src/marshmallow/index.ts:16](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/marshmallow/index.ts#L16)
+[src/marshmallow/index.ts:16](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/marshmallow/index.ts#L16)
 
 ## Properties
 
@@ -54,7 +54,7 @@ Layout&lt;BN, P\&gt;.constructor
 
 #### Defined in
 
-[src/marshmallow/index.ts:13](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/marshmallow/index.ts#L13)
+[src/marshmallow/index.ts:13](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/marshmallow/index.ts#L13)
 
 ___
 
@@ -68,7 +68,7 @@ Layout.property
 
 #### Defined in
 
-[src/marshmallow/buffer-layout.ts:14](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/marshmallow/buffer-layout.ts#L14)
+[src/marshmallow/buffer-layout.ts:14](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/marshmallow/buffer-layout.ts#L14)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[src/marshmallow/index.ts:14](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/marshmallow/index.ts#L14)
+[src/marshmallow/index.ts:14](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/marshmallow/index.ts#L14)
 
 ___
 
@@ -92,7 +92,7 @@ Layout.span
 
 #### Defined in
 
-[src/marshmallow/buffer-layout.ts:13](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/marshmallow/buffer-layout.ts#L13)
+[src/marshmallow/buffer-layout.ts:13](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/marshmallow/buffer-layout.ts#L13)
 
 ## Methods
 
@@ -119,7 +119,7 @@ Layout.decode
 
 #### Defined in
 
-[src/marshmallow/index.ts:24](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/marshmallow/index.ts#L24)
+[src/marshmallow/index.ts:24](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/marshmallow/index.ts#L24)
 
 ___
 
@@ -147,7 +147,7 @@ Layout.encode
 
 #### Defined in
 
-[src/marshmallow/index.ts:33](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/marshmallow/index.ts#L33)
+[src/marshmallow/index.ts:33](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/marshmallow/index.ts#L33)
 
 ___
 
@@ -172,7 +172,7 @@ Layout.getSpan
 
 #### Defined in
 
-[src/marshmallow/buffer-layout.ts:17](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/marshmallow/buffer-layout.ts#L17)
+[src/marshmallow/buffer-layout.ts:17](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/marshmallow/buffer-layout.ts#L17)
 
 ___
 
@@ -202,4 +202,4 @@ Layout.replicate
 
 #### Defined in
 
-[src/marshmallow/buffer-layout.ts:18](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/marshmallow/buffer-layout.ts#L18)
+[src/marshmallow/buffer-layout.ts:18](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/marshmallow/buffer-layout.ts#L18)

@@ -20,7 +20,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/base/base.ts:15](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/base/base.ts#L15)
+[src/base/base.ts:15](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/base/base.ts#L15)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[src/base/base.ts:13](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/base/base.ts#L13)
+[src/base/base.ts:13](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/base/base.ts#L13)
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 #### Defined in
 
-[src/base/base.ts:14](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/base/base.ts#L14)
+[src/base/base.ts:14](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/base/base.ts#L14)
 
 ___
 
@@ -50,4 +50,4 @@ ___
 
 #### Defined in
 
-[src/base/base.ts:12](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/base/base.ts#L12)
+[src/base/base.ts:12](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/base/base.ts#L12)

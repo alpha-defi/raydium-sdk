@@ -14,7 +14,7 @@ custom_edit_url: null
 
 #### Defined in
 
-[src/route/route.ts:66](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/route/route.ts#L66)
+[src/route/route.ts:66](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/route/route.ts#L66)
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 #### Defined in
 
-[src/route/route.ts:67](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/route/route.ts#L67)
+[src/route/route.ts:67](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/route/route.ts#L67)
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 #### Defined in
 
-[src/route/route.ts:69](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/route/route.ts#L69)
+[src/route/route.ts:69](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/route/route.ts#L69)
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 #### Defined in
 
-[src/route/route.ts:58](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/route/route.ts#L58)
+[src/route/route.ts:58](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/route/route.ts#L58)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[src/route/route.ts:68](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/route/route.ts#L68)
+[src/route/route.ts:68](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/route/route.ts#L68)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 #### Defined in
 
-[src/route/route.ts:59](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/route/route.ts#L59)
+[src/route/route.ts:59](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/route/route.ts#L59)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[src/route/route.ts:60](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/route/route.ts#L60)
+[src/route/route.ts:60](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/route/route.ts#L60)
 
 ___
 
@@ -97,4 +97,4 @@ ___
 
 #### Defined in
 
-[src/route/route.ts:61](https://github.com/alpha-defi/raydium-sdk/blob/4217474/src/route/route.ts#L61)
+[src/route/route.ts:61](https://github.com/alpha-defi/raydium-sdk/blob/108ded9/src/route/route.ts#L61)
