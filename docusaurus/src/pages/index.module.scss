@@ -3,7 +3,7 @@
  * and scoped locally.
  */
 @import "./../css/_mixins.scss";
-@import "./../css/variables.scss";
+@import "./../css/_variables.scss";
 
 .heroBanner {
   padding: 4rem 0;
@@ -55,6 +55,7 @@
   top: 15%;
   width: 350px;
   height: 350px;
+  @include z-index(homepageBlob);
 }
 
 @media screen and (min-width: $bp-mobile) {
