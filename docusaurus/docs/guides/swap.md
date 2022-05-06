@@ -2,8 +2,8 @@
 title:  Swap Demo
 ---
 
-This section shows how to use the Raydium SDK to swap tokens for mainnet and
-devnet. For now, mainnet is recommended because devnet is limited and has issues
+This section shows how to use the Raydium SDK to swap tokens for [mainnet](#mainnet) and
+[devnet](#devnet). For now, mainnet is recommended because devnet is limited and has issues
 that otherwise would not appear on mainnet.
 
 Credit goes to Rayxury from [Raydium's developers' discord](https://discord.com/channels/813741812598439958/813750197423308820) for creating and sharing these examples on [Github](https://github.com/raydium-io/sdk_demo/).
@@ -79,6 +79,8 @@ Make sure you select devnet at the top right.
 
 This wallet's private key will be used by the Raydium SDK, so in Sollet click the "Export" button
 to save the private key, which is an array of numbers.
+
+![airdrop_usdc](/img/guides/sollet_export.png)
 
 ### 7. Run sdk demo
 

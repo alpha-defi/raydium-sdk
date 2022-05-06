@@ -30,7 +30,10 @@ const sidebars = {
   docs: [
     'overview',
     {
-      Guides: ['guides', 'guides/swap', 'guides/swap-ui']
+      Guides: ['guides', 'guides/swap']
+    },
+    {
+      'Swap Widget': ['swap-widget/getting-started']
     },
     'overview/resources',
     'showcase',
