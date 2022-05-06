@@ -75,14 +75,14 @@ Make sure you select devnet at the top right.
 ![airdrop_usdc](/img/guides/airdrop_usdc.png)
 
 
-### 6. Save private key
+### 6. Save wallet private key
 
 This wallet's private key will be used by the Raydium SDK, so in Sollet click the "Export" button
 to save the private key, which is an array of numbers.
 
 ![airdrop_usdc](/img/guides/sollet_export.png)
 
-### 7. Run sdk demo
+### 7. Execute Swap
 
 Git clone the sdk_demo repo.
 
@@ -119,9 +119,133 @@ Done in 8.65s.
 
 ## Mainnet
 
-Mainnet is very similar to devnet except it uses real tokens.
+This section will show a swap between RAY and USDC for mainnet. It differs from
+the devnet version in that it uses real tokens.
+
+While mainnet may initially seem off-putting because it's using real assets, for swaps
+it can be fairly affordable for testing. For example, the following section will demonstrate
+a successful swap of 0.01 Ray with 0.020528 USDC.
+
+The successful transaction can be viewed [here](https://solscan.io/tx/47ZJSDJYYcr2rLQuRwC7PUKtWQ5PrpZXFFzi2yUathsmNUtFQdRQSJ1NGZ71TCjVvZamUoq1DpGJMCAnVDzyA17e).
+
+![mainnet_success](/img/guides/mainnet_success.png)
+
+To swap your own assets, please follow the remaining steps in this section.
+
+
+### 1. Transfer SOL and RAY to Wallet
+
+The first step before running the mainnet swap demo is to
+transfer SOL and RAY to your wallet. It may be advisable to
+create a new wallet for development / testing purposes (see [here](#1-wallet-install) 
+for reference if needed). The cheapest example may be 0.01 RAY and 0.001 SOL for
+transactions.
+
+
+### 2. Save wallet private key
+
+The swap demo will require your wallet's secret key to perform a transaction. 
+If using Sollet, see [here](#6-save-private-key) to export a private key
+that's an array of numbers.
+
+### 3. Clone and modify sdk_demo repo
+
+Clone the sdk_demo repo and checkout the version used by this example
 
 ```shell
 git clone https://github.com/raydium-io/sdk_demo/
-yarn && yarn start
+git checkout a5bdf75f80d2fb6dcabd80b9492c63319ec6cccd
 ```
+
+Modify the swap.ts with the wallet private key retrieved from step 2
+and update the amountIn value based on the amount you want to swap (in this example
+we're using 100)
+
+```ts
+
+import { Connection, Keypair, PublicKey,} from "@solana/web3.js";
+import { Liquidity, Token, TokenAmount,Percent } from "@raydium-io/raydium-sdk";
+  
+import {getTokenAccountsByOwner, fetchAllPoolKeys, fetchPoolKeys} from "./mainnet"
+
+// @ts-ignore
+import bs58 from "bs58"
+
+(async () => {
+    const connection = new Connection("https://solana-api.projectserum.com", "confirmed");
+
+    // change to your privateKey
+    const secretKey = Buffer.from(JSON.parse('1,1,1,1,1]'))
+    const ownerKeypair = Keypair.fromSecretKey( secretKey )
+    const owner = ownerKeypair.publicKey;
+    console.log(owner.toString());
+
+    const tokenAccounts = await getTokenAccountsByOwner(connection, owner)
+    const RAY_USDC = "6UmmUiYoBjSrhakAobJw8BvkmJtDVxaeBtbt7rxWo1mg"
+
+    const poolKeys = await fetchPoolKeys(connection, new PublicKey(RAY_USDC))
+    if (poolKeys){
+      
+      const poolInfo = await Liquidity.fetchInfo({connection, poolKeys})
+      // Update the 100 to the amount you want to swap
+      const amountIn = new TokenAmount(new Token(poolKeys.baseMint, 6), 100)
+      const currencyOut = new Token(poolKeys.quoteMint,6)
+      const slippage = new Percent(5, 100)
+
+      const {
+        amountOut,
+        minAmountOut,
+        currentPrice,
+        executionPrice,
+        priceImpact,
+        fee,
+      } = Liquidity.computeAmountOut({ poolKeys, poolInfo, amountIn, currencyOut, slippage, })
+
+      //@ts-ignore
+      console.log(amountOut.toFixed(), minAmountOut.toFixed(), currentPrice.toFixed(), executionPrice.toFixed(), priceImpact.toFixed(), fee.toFixed())
+      const {transaction, signers} = await Liquidity.makeSwapTransaction({
+          connection,
+          poolKeys,
+          userKeys: {
+              tokenAccounts,
+              owner,
+          },
+          amountIn,
+          amountOut: minAmountOut,
+          fixedSide: "in"
+      })
+
+      const txid = await connection.sendTransaction(
+          transaction, 
+          [...signers, ownerKeypair],
+          {skipPreflight: true}
+      );
+
+      console.log(`https://solscan.io/tx/${txid}`)
+    }
+})()
+```
+
+### 4. Execute swap
+
+Next, you can run the program to execute the swap
+
+```shell
+yarn && yarn start
+
+# Hopefully you see a success like the following
+ts-node src/swap.ts
+FW8CSLAZewfEmfHs5wf7yzELLFXhNRGq2WEc27JQ1uTh
+0.000205 0.000195 2.057025 2.050000 0.34 0.000000
+https://solscan.io/tx/3DrVnvJDe71NRYRzJuYsVdgxdUrESUbHznPTeh1AoXTcQ9gzB8cNcxMnm3C3SxR4CE6FDrsKCwNiCXWfCRfdxDQG
+Done in 9.64s.
+
+```
+
+### 5. Verify swap
+
+The swap can be verified on [solscan](https://solscan.io/tx/3DrVnvJDe71NRYRzJuYsVdgxdUrESUbHznPTeh1AoXTcQ9gzB8cNcxMnm3C3SxR4CE6FDrsKCwNiCXWfCRfdxDQG
+) but additionally your wallet
+should show a successful swap:
+
+![](/img/guides/mainnet_success_wallet.png)
