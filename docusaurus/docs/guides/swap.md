@@ -75,9 +75,31 @@ In the "Token destination address\*" use the "Associated Token Metadata" address
 
 :::note
 Make sure you select devnet at the top right.
+
+If you're on a different network or enter an invalid address, you may encounter an error like
+
+"Error calculating mint address from token account. Are you sure you inserted a valid token account address"
 :::
 
+<br/><br/>
+
+For the Sollet wallet, you will be prompted to allow access to the https://www.spl-token-ui.com website, so
+press "Connect"
+
 ![airdrop_usdc](/img/guides/airdrop_usdc.png)
+
+After pressing "Connect", you'll then be prompted to approve the swap transaction:
+
+![airdrop_usdc](/img/guides/approve-faucet.png)
+
+Finally, you hopefully see a successful transaction
+
+![airdrop_usdc_success](/img/guides/faucet-airdrop-success.png)
+
+Once you verify your wallet you should see an updated balance for the tocket you airdropped (USDC for this
+example).
+
+![usdc_balance](/img/guides/usdc_updated_balance.png)
 
 ### 6. Save wallet private key
 
