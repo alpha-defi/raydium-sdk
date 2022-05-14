@@ -3,7 +3,7 @@ title: Swap Demo
 ---
 
 This section shows how to use the Raydium SDK to swap tokens for [mainnet](#mainnet) and
-[devnet](#devnet). Swapping tokens depends
+[devnet](#devnet).
 
 For now, mainnet is recommended because devnet is limited and has issues
 that otherwise would not appear on mainnet.
@@ -13,8 +13,7 @@ Credit goes to Rayxury from [Raydium's developers' discord](https://discord.com/
 ## Devnet
 
 This section steps through a brand new devnet wallet installation that is airdropped
-SOL, USDC, and Ray tokens. The SDK is then used to swap the Ray token using
-devnet's RAY-USDC pool.
+SOL, USDC, and Ray tokens. The SDK is then used to swap USDC into RAY using the RAY-USDC pool.
 
 ### 1. Wallet Install
 
@@ -33,51 +32,127 @@ Once created, the wallet should show up like the following:
 
 ### 3. Airdrop SOL
 
-Airdrop SOL to your wallet using [https://www.spl-token-ui.com](https://www.spl-token-ui.com/#/sol-airdrop)
-while ensuring you're on devnet.
+Airdrop SOL to your devnet wallet. This will be used in subsequent transactions.
+
+1. Navigate to [https://www.spl-token-ui.com](https://www.spl-token-ui.com/#/sol-airdrop)
+2. Ensure you've selected devnet in the top right navigation bar dropdown
+
+![devnet_sol_airdrop](/img/guides/spl-token-airdrop-sol.png)
+
+3. Fill out the SOL address using the address from step 2 and put 2 for the amount
+   of SOL to airdrop. It may require a few tries before you see the SOL in your wallet. While 10 SOL is the max that can requested at once, it may not always deliver, so you may have to try smaller amounts like 2 or 3, and attempt it a few times.
 
 :::note
-Sometimes the amount airdropped may need to be reduced
-for faster transmission (e.g. airdrop 1-2 SOL instead of 10).
-
 The spl-token-ui.com is open sourced at https://github.com/paul-schaaf/spl-token-ui
 :::
 
+4. Once the airdrop is successful, you should see the SOL token in your wallet:
+
+![devnet_sol_in_wallet](/img/guides/spl-token-sol-in-wallet.png)
+
 ### 4. Add USDC and Ray to your wallet
 
-Add USDC and Ray to your wallet using the following mint addresses
+In devnet, unlike mainnet, we need to manually add the USDC and
+Ray tokens so they're visible in your wallet.
+
+1. In the Sollet wallet, click the "Add Token" button
+
+![add_manual_token](/img/guides/sollet-add-token.png)
+
+2. Ensure the Manual Input tab is selected
+
+![add_manual_token](/img/guides/sollet-add-token-fields.png)
+
+3. Add USDC:
 
 ```
-Ray Mint: FSRvxBNrQWX2Fy2qvKMLL3ryEdRtE3PUTZBcdKwASZTU
-USDC Mint: BEcGFQK1T1tSu3kvHC17cyCkQ5dvXqAJ7ExB2bb5Do7a
+Token Mint Address: BEcGFQK1T1tSu3kvHC17cyCkQ5dvXqAJ7ExB2bb5Do7a
+Token Name: USDC
+Token Symbol: USDC
+```
+
+![add](/img/guides/add-usdc-wallet.png)
+
+4. Add RAY:
+
+```
+Token Mint Address: FSRvxBNrQWX2Fy2qvKMLL3ryEdRtE3PUTZBcdKwASZTU
+Token Name: Raydium
+Token Symbol: RAY
 ```
 
 ![add](/img/guides/add-ray-wallet.png)
 
-![add](/img/guides/add-usdc-wallet.png)
-
-Expand the details of each token's "Associated Token Metadata", as they will be used
-in the next step
+5. After adding the tokens, you may need to refresh your wallet but this
+   should appear like the following after expanding the details:
 
 ![add](/img/guides/token_addresses.png)
 
-### 5. Airdrop USDC and Ray to your wallet
-
-Airdrop USDC and Ray to your wallet using [https://www.spl-token-ui.com](https://www.spl-token-ui.com/#token-faucets)
-while ensuring you're on devnet and using the below faucets:
-
-```
-USDC Faucet: Bz3PCWk7B5J1FoR1W5WYHSLJQGQaR8qAnWTPurUxYrAk
-Ray Faucet: 8zziYhuA792dHEASjkvUNVqF71PzeCwsi4y77VBjhFRq
-```
-
-In the "Token destination address\*" use the "Associated Token Metadata" addresses saved from step 4.
-
 :::note
-Make sure you select devnet at the top right.
+Take note of the "Associated Token Metadata" addresses as they will be
+used to airdrop tokens in Step 5.
 :::
 
+### 5. Airdrop USDC and Ray to your wallet
+
+Now we will airdrop USDC and Ray to your wallet.
+
+1. Navigate to [https://www.spl-token-ui.com](https://www.spl-token-ui.com/#token-faucets)
+2. Select "devnet" from the top right navbar
+
+:::note
+
+If you forget this step or enter an invalid address, you may encounter an error like
+
+"Error calculating mint address from token account. Are you sure you inserted a valid token account address"
+:::
+
+3. Select the "Token Airdrop" button
+4. In order to airdrop USDC to your wallet, you should enter the following for the inputs:
+
+Token destination address: This is the "Associated Token Metadata" address from step 4
+Faucet Address: This is the USDC faucet address
+Amount:
+
+Here's some example fields for USDC:
+
+```
+Token destination address: 4rrMpBvHAwwPtiQxcRCsQiHaYYxwvZsMTcPjcG7ig7ff
+Faucet address: Bz3PCWk7B5J1FoR1W5WYHSLJQGQaR8qAnWTPurUxYrAk
+Amount: 100000
+```
+
+Here's examples fields for RAY:
+
+```
+Token destination address: 8Nr8bEZabzRrzd2FpZumDgEmuZHk9ESXatTkM3wu4N9e
+Faucet address: 8zziYhuA792dHEASjkvUNVqF71PzeCwsi4y77VBjhFRq
+Amount: 100000
+```
+
+:::note
+The amount of 100,000 equates to 0.10 USDC or 0.10 RAY. At the time of this writing,
+values greater than 100,000 appear to fail with the following error:
+
+failed to send transaction: Transaction simulation failed: Error processing Instruction 0: custom program error: 0x4
+:::
+
+5. For the Sollet wallet, you will be prompted to allow access to the https://www.spl-token-ui.com website with a browser window popup, so
+   press "Connect" when it appears
+
 ![airdrop_usdc](/img/guides/airdrop_usdc.png)
+
+6. After pressing "Connect", you'll then be prompted to approve the swap transaction:
+
+![airdrop_usdc](/img/guides/approve-faucet.png)
+
+7. Finally, you hopefully see a successful transaction
+
+![airdrop_usdc_success](/img/guides/faucet-airdrop-success.png)
+
+8. After you've airdropped a number of tokens, you should see updated balances in your wallet:
+
+![devnet_balances](/img/guides/devnet_sollet_updated_balances.png)
 
 ### 6. Save wallet private key
 
@@ -86,21 +161,54 @@ to save the private key, which is an array of numbers.
 
 ![airdrop_usdc](/img/guides/sollet_export.png)
 
+![private_key_export](/img/guides/wallet_private_key_export.png)
+
 ### 7. Execute Swap
 
-Git clone the sdk_demo repo.
+1. Git clone the sdk_demo repo and build it
 
 ```shell
+# Clone the repo demo
 git clone https://github.com/raydium-io/sdk_demo/
+
+# As sdk_demo is an evolving project, this tutorial will focus on a particular verison from May 2, 2022
+git checkout e14585ef5d31c909ab0b9506b4679acbf3816227
+
+# Build dependencies
 yarn
 ```
 
-Modify the array in the secretKey wtih your wallet's private key
+2. Modify src/swap_dev.ts with your wallet's private key
+
+Open src/swap/swap_dev.ts and update the secretKey using your wallet's private key from step 6:
 
 ```tsx
 // Replace '[1,1,1,1,1]' with your key
 const secretKey = Buffer.from(JSON.parse("[1,1,1,1,1]"));
 ```
+
+3. Modify src/swap_dev.ts to swap USDC into RAY
+
+For the POOL_ID, comment out SOL-USDT and instead use RAY_USDC
+
+```tsx
+// SOL-USDT
+// const POOL_ID = "384zMi9MbUKVUfkUdrnuMfWBwJR9gadSxYimuXeJ9DaJ"
+
+// RAY_USDC
+const POOL_ID = "ELSGBb45rAQNsMTVzwjUqL8vBophWhPn4rNbqwxenmqY";
+```
+
+4. Modify src/swap_dev.ts to use a different amount
+
+Update the amountIn from 1,000,000 to 100, or else the transaction will
+likely fail unless you have enough USDC in your wallet.
+
+```tsx
+const amountIn = new TokenAmount(new Token(poolKeys.baseMint, poolInfo.baseDecimals), 100);
+```
+
+4. Execute the devnet swap
 
 ```shell
 yarn dev
@@ -109,16 +217,25 @@ yarn dev
 The program should hopefully run successfully with output similar to the following
 
 ```
-5TieXkdUrh9ZPCHp4qwtaEpF7qc27kGwfyinUge4Bn5j
+7MMD8ECRBjuE5dSAk8t6NpYi5oSbdvPuVGyiqciC7CHh
 tokenAccounts.length: 2
-allPoolKeys.length: 18
+allPoolKeys.length: 21
 ...
-0.009974 0.009499 9.994006 9.993988 0.00 0.000002
-https://explorer.solana.com/tx/4xAW8wxBfhEqTDnHzhSJgpaosBnixAufVZFu8hFyhS2CTbs2fgbDptQKw4eLvAaQGPVt76uR5u7bbJGEsrhgVmN4?cluster=devnet
-Done in 8.65s.
+0.000997 0.000949 9.978050 9.970000 0.08 0.000000
+https://explorer.solana.com/tx/VRw6ZCZ1uzBSBdCXEhN6o2rz3CsqmQSKyNdW9UGK2B7WyfouhBJ6XQU5DEonpYFTN83woxVg3zMG1yVW2EGvoLe?cluster=devnet
+Done in 7.52s.
+
 ```
 
-![solscan_success](/img/guides/solscan_success.png)
+You can see a successful swap [here](https://explorer.solana.com/tx/VRw6ZCZ1uzBSBdCXEhN6o2rz3CsqmQSKyNdW9UGK2B7WyfouhBJ6XQU5DEonpYFTN83woxVg3zMG1yVW2EGvoLe?cluster=devnet)
+
+### 8. Verify the swap transaction
+
+Finally, you can verify that USDC was swapped into RAY by looking at your wallet:
+
+Here is an example where 0.001 USDC was swapped into 0.001 RAY. Originally the wallet had 0.1 USDC and 0.1 RAY before the swap:
+
+![devnet_swap_verification](/img/guides/devnet_swap_verification.png)
 
 ---
 

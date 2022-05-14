@@ -37,6 +37,7 @@ const sidebars = {
     },
     'overview/resources',
     'showcase',
+    'changelog'
   ],
   API: [
     {
