@@ -33,7 +33,7 @@ const sidebars = {
       Guides: ['guides', 'guides/swap', 'guides/liquidity', 'guides/farm', 'guides/cpi']
     },
     {
-      'Swap Widget': ['swap-widget/getting-started']
+      'Swap Widget': ['swap-widget/getting-started', 'swap-widget/iframe', 'swap-widget/react']
     },
     'overview/resources',
     'showcase',
