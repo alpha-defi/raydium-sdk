@@ -118,9 +118,9 @@ If you forget this step or enter an invalid address, you may encounter an error 
 3. Select the "Token Airdrop" button
 4. In order to airdrop USDC to your wallet, you should enter the following for the inputs:
 
-Token destination address: This is the "Associated Token Metadata" address from step 4
-Faucet Address: This is the USDC faucet address
-Amount:
+- Token destination address: This is the "Associated Token Metadata" address from step 4
+- Faucet Address: This is the USDC faucet address
+  Amount:
 
 Here's some example fields for USDC:
 
