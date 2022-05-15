@@ -30,7 +30,7 @@ const sidebars = {
   docs: [
     'overview',
     {
-      Guides: ['guides', 'guides/swap']
+      Guides: ['guides', 'guides/swap', 'guides/liquidity', 'guides/farm', 'guides/cpi']
     },
     {
       'Swap Widget': ['swap-widget/getting-started']
