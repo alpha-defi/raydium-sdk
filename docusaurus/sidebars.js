@@ -35,7 +35,9 @@ const sidebars = {
     {
       'Swap Widget': ['swap-widget/getting-started', 'swap-widget/iframe', 'swap-widget/react']
     },
-    'overview/resources',
+    {
+      'Resources': ['resources/links', 'resources/token-list', 'resources/liquidity-pools']
+    },
     'showcase',
     'changelog'
   ],
