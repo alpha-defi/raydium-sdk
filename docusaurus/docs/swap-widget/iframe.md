@@ -11,7 +11,7 @@ performance cost.
 This page includes a live example of the iframe swap widget. It should
 hopefully render below:
 
-<iframe style={{ width: '100%', height: 500 }} src="https://swap.alphadefi.info/" />
+<iframe style={{ width: '100%', height: 500 }} src="https://swap.alphadefi.info/swap/" />
 
 <br />
 <br />
@@ -42,5 +42,5 @@ Add the iframe within your UI but replace the src with a link
 to the raydium-frontend-iframe project from step 2
 
 ```html
-<iframe src="https://swap.alphadefi.info/" />
+<iframe src="https://swap.alphadefi.info/swap/" />
 ```
