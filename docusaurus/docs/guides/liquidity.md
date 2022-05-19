@@ -1,5 +1,5 @@
 ---
-title: Liquidity Demo
+title: Add / Remove Liquidity
 ---
 
 After [swapping tokens](/guides/swap), users may next want to provide liquidity to receive
@@ -32,7 +32,7 @@ executed out of the box:
 yarn dev
 ```
 
-Here is sample execution:
+Here is a sample execution:
 
 ```shell
 yarn dev

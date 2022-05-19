@@ -1,5 +1,5 @@
 ---
-title: Farm Demo
+title: Farm Deposit / Withdraw
 ---
 
 After [swapping tokens](/guides/swap) and creating [liquidity pools](/guides/liquidity), users
