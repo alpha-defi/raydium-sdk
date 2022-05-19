@@ -2,20 +2,47 @@
 title: Iframe
 ---
 
-The iframed swap widget can be embedded within any UI project. It's the easiest
-approach for integration, especially for non-React projects, but it comes with a
-performance cost.
+:::caution
+The iframe approach is deprecated and not recommended due to [limitations described below](#limitations).
+:::
+
+The iframed swap widget was an experimental attempt at providing a mechanism for easy integration into
+any UI project but it's deprecated due to [numerous limitations](#limitations). It's possible this
+could be revived if the limitations are resolved.
 
 ## Demo
 
 This page includes a live example of the iframe swap widget. It should
 hopefully render below:
 
-<iframe style={{ width: '100%', height: '900px' }} src="https://swap.alphadefi.info/swap/" />
+<iframe style={{ width: '100%', height: '900px' }} src="http://localhost:3008" />
 
 <br />
 <br />
 <br />
+
+## Limitations
+
+### Functionality
+
+Functionally, there are known issues with the iframed widget that include the following:
+
+- Limited wallet support (only Solflare, Sollet, Torus initially appear to work)
+- Various bugs that do not appear outside an iframe
+
+### Performance
+
+iFrames are not ideal, especially on mobile or with limited bandwidth clients, because they include the
+entire iframed website.
+
+### Security
+
+There are numerous security threats that need to be considered and addressed when using an iframe:
+
+- Cross-frame script vulnerabilities
+- iFrame phishing
+- iFrame injection
+- Clickjacking
 
 ## Installation
 
