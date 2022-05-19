@@ -15,7 +15,7 @@ could be revived if the limitations are resolved.
 This page includes a live example of the iframe swap widget. It should
 hopefully render below:
 
-<iframe style={{ width: '100%', height: '900px' }} src="http://localhost:3008" />
+<iframe style={{ width: '100%', height: '900px' }} src="https://swap.alphadefi.info/swap" />
 
 <br />
 <br />
