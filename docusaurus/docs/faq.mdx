@@ -1,0 +1,39 @@
+---
+title: Frequently Asked Questions
+---
+
+
+### What are the main features of the Raydium SDK?
+
+The Raydium SDK provides APIs for building applications of top of Raydium. 
+
+At a high level, the SDK provides classes, utilities, and types for token swaps, liquidity, farms, SPL (Solana Program Library) utilities, tokens, and more. The SDK is used extensively by the Raydium V2 frontend.
+
+<br/>
+
+### What is the difference between swap, route swap, and trade swap?
+
+These are different terms for the primary swap operations provided by the 
+Raydium SDK:
+
+
+### Swap
+
+Invokes Liquidity.makeSwapTransaction function that swaps for single pool 
+(e.g. swap RAY to USDC via the RAY-USDC pool) 
+
+
+### Route Swap
+
+Invokes Route.makeSwapTransaction that uses two pools. For example, a route swap
+of RAY to FTT requires the following two steps:
+
+a) Swap RAY to USDC via the RAY-USDC pool
+b) Swap USDC to FTT using the FTT_USDC pool
+
+### Trade Swap
+
+Invokes Liquidity.makeTradeTransaction 
+
+
+<br/>

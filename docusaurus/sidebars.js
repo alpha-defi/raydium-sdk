@@ -30,15 +30,16 @@ const sidebars = {
   docs: [
     'overview',
     {
-      Guides: ['guides', 'guides/swap', 'guides/liquidity', 'guides/farm', 'guides/cpi', 'guides/route-swap', 'guides/trade-swap']
+      Guides: ['guides', 'guides/swap', 'guides/sdk-demo', 'guides/farm', 'guides/cpi']
     },
     {
       'Swap Widget': ['swap-widget/getting-started', 'swap-widget/react', 'swap-widget/iframe']
     },
+    'showcase',
+    'faq',
     {
       'Resources': ['resources/links', 'resources/token-list', 'resources/liquidity-pools']
     },
-    'showcase',
     'changelog'
   ],
   API: [

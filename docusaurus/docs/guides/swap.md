@@ -1,11 +1,10 @@
 ---
-title: Swap Demo
+title: Swap
 ---
 
 This section shows how to use the Raydium SDK to swap tokens for [mainnet](#mainnet) and
-[devnet](#devnet).
-
-For now, mainnet is recommended because devnet has limitations and is known to have issues hat do not appear on mainnet.
+[devnet](#devnet). The swap operation will use Liquidity.makeSwapTransaction from the Raydium SDK,
+which performs swaps on a single pool (e.g. swap RAY to USDC via the RAY-USDC pool). For
 
 Credit goes to Rayxury from [Raydium's developers' discord](https://discord.com/channels/813741812598439958/813750197423308820) for creating and sharing these examples on [Github](https://github.com/raydium-io/sdk_demo/).
 <br/>
