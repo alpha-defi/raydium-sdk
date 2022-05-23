@@ -11,7 +11,7 @@ export default function Swap() {
     props: { pageProps: {} },
     page: "/swap",
     query: {},
-    buildId: "029a21694395b4f567aa58e99f8630bd523e78bb",
+    buildId: "54f9bf98563b7c6bfd2ae75f5fb28318bcf105dd",
     nextExport: true,
     autoExport: true,
     isFallback: false,
@@ -23,22 +23,22 @@ export default function Swap() {
       <Helmet>
         <link rel="preload" href="/_next/static/css/98f8fe567cabb426.css" as="style" />
         <link rel="stylesheet" href="/_next/static/css/98f8fe567cabb426.css" data-n-g="" />
-        <script src="/_next/static/chunks/polyfills-5cd94c89d3acac5f.js"></script>
-        <script src="/_next/static/chunks/webpack-60100ddd931b7b72.js"></script>
-        <script src="/_next/static/chunks/framework-75db3117d1377048.js"></script>
-        <script src="/_next/static/chunks/main-2dccb8adb24f1636.js"></script>
-        <script src="/_next/static/chunks/pages/_app-9629e8d58d3b020b.js"></script>
-        <script src="/_next/static/chunks/98-42c6d8678e10e7f6.js"></script>
-        <script src="/_next/static/chunks/65-f90f248fcb67913b.js"></script>
-        <script src="/_next/static/chunks/143-527ebf07095db790.js"></script>
-        <script src="/_next/static/chunks/41-93b5790e12fb11d5.js"></script>
-        <script src="/_next/static/chunks/122-3172092e8c073ee3.js"></script>
-        <script src="/_next/static/chunks/pages/swap-a6da4bfe7368b94c.js"></script>
-        <script src="/_next/static/029a21694395b4f567aa58e99f8630bd523e78bb/_buildManifest.js"></script>
-        <script src="/_next/static/029a21694395b4f567aa58e99f8630bd523e78bb/_ssgManifest.js"></script>
-        <script src="/_next/static/029a21694395b4f567aa58e99f8630bd523e78bb/_middlewareManifest.js"></script>
+        <script defer="" nomodule="" src="/_next/static/chunks/polyfills-5cd94c89d3acac5f.js"></script>
+        <script src="/_next/static/chunks/webpack-60100ddd931b7b72.js" defer=""></script>
+        <script src="/_next/static/chunks/framework-75db3117d1377048.js" defer=""></script>
+        <script src="/_next/static/chunks/main-deb732c9f81f04c3.js" defer=""></script>
+        <script src="/_next/static/chunks/pages/_app-fe8d35b5aeb3f36a.js" defer=""></script>
+        <script src="/_next/static/chunks/241-8adc3fbfcc295ec3.js" defer=""></script>
+        <script src="/_next/static/chunks/143-94e38f626f66b587.js" defer=""></script>
+        <script src="/_next/static/chunks/41-93b5790e12fb11d5.js" defer=""></script>
+        <script src="/_next/static/chunks/907-0f51d9addcd81740.js" defer=""></script>
+        <script src="/_next/static/chunks/505-52de6470515364df.js" defer=""></script>
+        <script src="/_next/static/chunks/pages/swap-d734afa59d6bfe35.js" defer=""></script>
+        <script src="/_next/static/54f9bf98563b7c6bfd2ae75f5fb28318bcf105dd/_buildManifest.js" defer=""></script>
+        <script src="/_next/static/54f9bf98563b7c6bfd2ae75f5fb28318bcf105dd/_ssgManifest.js" defer=""></script>
+        <script src="/_next/static/54f9bf98563b7c6bfd2ae75f5fb28318bcf105dd/_middlewareManifest.js" defer=""></script>
         <script id="__NEXT_DATA__" type="application/json">
-            {JSON.stringify(nextData)}
+          {JSON.stringify(nextData)}
         </script>
       </Helmet>
 
