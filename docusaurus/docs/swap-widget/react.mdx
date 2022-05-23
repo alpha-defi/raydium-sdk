@@ -1,26 +1,19 @@
 ---
-title: React
+title: Embedded React
 ---
 
 (Under construction).
 
-This section will show how to integrate a native React swap ui component.
+One possible way to integrate the Raydium swap widget is to embed
+a copy of the [raydium-frontend](https://github.com/raydium-io/raydium-frontend) project
+into your existing project. The advantage with this approach is that it uses the exact
+same code that the Raydium frontend uses. 
+
+There are several downsides though:
+
+1. There may be extra bloat with duplicate libraries
+2. Global JS or CSS conflicts with existing application
 
 ## Demo
 
-TODO
-
-## Installation
-
-### 1. yarn or npm install the library
-
-```
-yarn add @alpha-defi/raydium-widgets
-```
-
-### 2. Add widget to your UI
-
-```
-import { SwapWidget } from "@alpha-defi/raydium-widgets";
-<SwapWidget></SwapWidget>
-```
+[Demo](/swap)
